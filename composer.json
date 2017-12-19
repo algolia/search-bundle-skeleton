@@ -1,0 +1,13 @@
+{
+    "name": "algolia/search-bundle-skeleton",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "require": {
+        "algolia/search-bundle": "^3.0-BETA"
+    },
+    "autoload": {
+        "psr-4": {
+            "Algolia\\SearchBundleSkeleton\\": "src/"
+        }
+    }
+}
